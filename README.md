@@ -1,4 +1,4 @@
-# Task-2-Sparx-Foundation
+# Task-2-Sparks-Foundation
 K-Means-Clustering-Unsupervised-ML
 ** Project done during the Data Science & Analytics Internship at The Sparks Foundation **
 
